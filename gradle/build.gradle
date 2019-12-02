@@ -1,0 +1,7 @@
+/*First simply script*/
+
+task hello {
+    doLast {
+        println 'Hello world!'
+    }
+}
